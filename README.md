@@ -4,7 +4,7 @@
 <div align="center">
 
 
-
+![snake gif](https://github.com/sevafacer/sevafacer/blob/output/github-contribution-grid-snake.gif)
 
 
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
