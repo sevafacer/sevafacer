@@ -4,7 +4,7 @@
 <div align="center">
 
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+
 
 
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
