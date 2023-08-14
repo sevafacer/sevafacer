@@ -1,4 +1,4 @@
-name: GitHub Skyline
+name: Test
 on:
   # Schedule daily updates
   schedule: [{cron: "0 0 * * *"}]
@@ -18,6 +18,17 @@ jobs:
           token: NOT_NEEDED
           base: ""
           plugin_skyline: yes
-          plugin_skyline_year: 2020
+          plugin_skyline_year: 2023
           plugin_skyline_frames: 6
           plugin_skyline_quality: 1
+
+
+      - uses: lowlighter/metrics@latest  
+        with:
+          template: terminal
+          filename: metrics.terminal.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: header, metadata
+          
+
+          
