@@ -3,7 +3,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Now+I'm+doing+web+development%2C;But+I'm+aiming+for+C%2B%2B+developement+%3AD)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=24&duration=8000&pause=1000&center=true&vCenter=true&width=435&lines=Now%2C+I'm+Web+Developer%2C;But+I+strive+to+;Become+a+C%2B%2B+Developer+%3AD)](https://git.io/typing-svg)
 
 ![Snake animation](https://github.com/sevafacer/sevafacer/blob/output/github-contribution-grid-snake-dark.svg)
 
