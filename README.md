@@ -4,7 +4,7 @@
 <div align="center">
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=24&duration=8000&pause=1000&center=true&vCenter=true&width=435&lines=Now%2C+I'm+Web+Developer%2C;But+I+strive+to+;Become+a+C%2B%2B+Developer+%3AD)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)</p>
 ![Snake animation](https://github.com/sevafacer/sevafacer/blob/output/github-contribution-grid-snake-dark.svg)
 
 
