@@ -3,7 +3,6 @@
 
 <p align="center">
   <img src="metrics.terminal.svg" />
-  <img src="metrics.plugin.skyline.svg" />
 </p>
 
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
