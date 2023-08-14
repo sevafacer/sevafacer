@@ -8,7 +8,7 @@
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
-  [![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/sevafacer)   
+  [![codewars](https://www.codewars.com/users/sevafacer/badges/large)](https://www.codewars.com/users/sevafacer)   
   </div>
 
 ![Snake animation](https://github.com/sevafacer/sevafacer/blob/output/github-contribution-grid-snake-dark.svg)
